@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Codex / ZCode
+.codex/
+.zcode/
+
+# Temp
+*.tmp
+*.bak

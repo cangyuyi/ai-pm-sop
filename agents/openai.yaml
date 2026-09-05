@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PM Resume Writer"
+  short_description: "AI 产品经理简历撰写、诊断与多版本定制"
+  icon_small: "../assets/icon.svg"
