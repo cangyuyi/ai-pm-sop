@@ -22,7 +22,7 @@
 将本仓库克隆到 Codex skills 目录：
 
 ```bash
-git clone https://github.com/cangyuyi/ai-pm-resume-writing.git ~/.codex/skills/ai-pm-resume-writing
+git clone https://github.com/cangyuyi/ai-pm-sop.git ~/.codex/skills/ai-pm-resume-writing
 ```
 
 重启 Codex 或开始新对话后即可自动触发。
