@@ -1,5 +1,7 @@
 # AI PM Resume Writing · AI 产品经理简历写作 Skill
 
+> **使用边界**：该 Skill 只基于用户真实、可核实经历诊断和改写；没有量化证据就保留定性表述，不虚构职位、职责、指标或录用结果。
+
 <p align="center">
   <img src="assets/icon.svg" alt="AI PM Resume Writer" width="80" height="80">
 </p>
